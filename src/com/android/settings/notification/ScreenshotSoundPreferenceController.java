@@ -26,14 +26,13 @@ import com.android.settingslib.core.lifecycle.Lifecycle;
 
 public class ScreenshotSoundPreferenceController extends SettingPrefController {
 
-    private static final String KEY_SCREENSHOT_SOUNDS = "screenshot_sounds";
+    private static final String KEY_SCREENSHOT_SOUNDS = "screenshot_shutter_sound";
 
     public ScreenshotSoundPreferenceController(Context context, SettingsPreferenceFragment parent,
             Lifecycle lifecycle) {
         super(context, parent, lifecycle);
         mPreference = new SettingPref(
-            TYPE_SYSTEM, KEY_SCREENSHOT_SOUNDS, System.SCREENSHOT_SOUND, DEFAULT_ON);
-
+            TYPE_SYSTEM, KEY_SCREENSHOT_SOUNDS, System.SCREENSHOT_SHUTTER_SOUND, DEFAULT_ON);
     }
 
 }

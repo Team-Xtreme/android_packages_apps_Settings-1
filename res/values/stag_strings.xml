@@ -45,8 +45,8 @@
     <!-- Charging vibration -->
     <string name="charging_vibro_title">Charging vibration</string>
 
-    <!-- Screenshot sound -->
-    <string name="screenshot_sound_title">Screenshot sound</string>
+    <!-- Screenshot shutter -->
+    <string name="screenshot_shutter_sound_title">Screenshot shutter sound</string>
 
     <!-- Battery stats reset -->
     <string name="battery_stats_reset">Reset stats</string>
