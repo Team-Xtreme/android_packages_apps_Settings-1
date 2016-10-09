@@ -121,4 +121,8 @@
     <string name="stag_ota_title">StagOS Updates</string>
     <string name="stag_ota_summary">Get latest build</string>
 
+    <!-- Quick unlock -->
+    <string name="unlock_quick_unlock_control_title">Quick unlock</string>
+    <string name="unlock_quick_unlock_control_summary">Unlock automatically when the correct PIN/password is entered</string>
+
 </resources>
