@@ -127,13 +127,6 @@
         android:title="@string/color_theme"
         android:summary="@string/summary_placeholder" />
 
-    <Preference
-        android:key="force_ambient_for_media_pref"
-        android:fragment="com.stag.horns.fragments.AmbientTicker"
-        android:title="@string/force_ambient_for_media_pref_title"
-        android:summary="@string/force_ambient_for_media_pref_summary"
-        settings:userRestriction="no_ambient_display" />
-
     <PreferenceCategory
         android:key="theme_category"
         android:title="@string/theme_category_title">
