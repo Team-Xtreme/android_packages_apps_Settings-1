@@ -28,5 +28,8 @@
     <color name="expanded_button_color_normal">#4CAF50</color>
     <color name="expanded_button_color_close">#F44336</color>
 
+    <!-- Shortcuts -->
+    <color name="icon_accent_custom">@*android:color/accent_device_default_light</color>
+
 </resources>
 
