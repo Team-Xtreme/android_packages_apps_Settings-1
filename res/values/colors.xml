@@ -137,5 +137,6 @@
     <color name="battery_maybe_color_dark">#fdd835</color> <!-- Material Yellow 600 -->
     <color name="battery_bad_color_dark">#f44336</color> <!-- Material Red 500 -->
 
+    <color name="homepage_horns_background">#9E9E9E</color>
 </resources>
 

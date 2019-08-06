@@ -3378,7 +3378,7 @@
 
        <activity android:name=".Settings$HornsActivity"
                   android:label="@string/horns_settings_title"
-                  android:icon="@drawable/ic_settings_horns">
+                  android:icon="@drawable/ic_homepage_horns">
             <intent-filter android:priority="-1">
                 <action android:name="com.android.settings.action.SETTINGS"/>
             </intent-filter>

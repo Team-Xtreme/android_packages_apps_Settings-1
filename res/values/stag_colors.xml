@@ -30,6 +30,8 @@
 
     <color name="settings_icon_oneplus">@android:color/white</color>
 
+    <color name="dashboard_system_accent_follow">@*android:color/gradient_end_light</color>
+    <color name="dashboard_system_accent_start">@*android:color/gradient_start_light</color>
 </resources>
 
 
