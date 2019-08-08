@@ -162,6 +162,10 @@
     <string name="switch_default">Default</string>
     <string name="switch_md2">Material Design 2</string>
     <string name="switch_oneplus">OnePlus</string>
+    <string name="switch_narrow">Narrow</string>
+    <string name="switch_contained">Contained</string>
+    <string name="switch_retro">Retro</string>
+    <string name="switch_stockish">Stockish</string>
 
     <!-- Smart charging -->
     <string name="smart_charging_title">Smart Charging</string>
