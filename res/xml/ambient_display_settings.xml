@@ -43,7 +43,7 @@
             android:title="@string/ambient_display_pickup_title"
             android:fragment="com.android.settings.gestures.PickupGestureSettings"
             settings:controller="com.android.settings.gestures.PickupGesturePreferenceController" />
-a
+
     <Preference
         android:key="force_ambient_for_media_pref"
         android:fragment="com.stag.horns.fragments.AmbientTicker"
@@ -56,12 +56,6 @@ a
     <PreferenceCategory
         android:key="ambient_display_category_notification"
         android:layout="@layout/preference_category_no_label">
-
-	<com.stag.horns.preferences.SystemSettingSwitchPreference
-            android:key="doze_on_charge"
-            android:title="@string/doze_on_charge_title"
-            android:summary="@string/doze_on_charge_summary"
-            android:defaultValue="false" />
 
         <SwitchPreference
             android:key="ambient_display_notification"

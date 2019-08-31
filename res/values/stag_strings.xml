@@ -234,10 +234,6 @@
     <string name="adj_intensity_title">Intensity</string>
     <string name="adj_contrast_title">Contrast</string>
 
-    <!-- Doze on charge -->
-    <string name="doze_on_charge_title">Always on when charging</string>
-    <string name="doze_on_charge_summary">Show doze screen all the time when charging</string>
-
     <!-- Battery ui -->
     <string name="battery_stats_charging">Charging</string>
     <string name="battery_stats_discharging">Discharging</string>
