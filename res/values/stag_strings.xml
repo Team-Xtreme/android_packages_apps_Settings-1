@@ -151,4 +151,8 @@
     <!-- Lockscreen rotation -->
     <string name="lockscreen_rotation_title">Auto-rotate lockscreen</string>
     <string name="lockscreen_rotation_summary">Allow rotation on the lockscreen</string>
+
+    <!-- Scramble pin -->
+    <string name="unlock_scramble_pin_layout_title">Scramble layout</string>
+    <string name="unlock_scramble_pin_layout_summary">Scramble PIN layout when unlocking device</string>
 </resources>
