@@ -120,6 +120,7 @@ import com.android.settings.notification.ZenModeScheduleRuleSettings;
 import com.android.settings.notification.ZenModeSettings;
 import com.android.settings.password.ChooseLockPassword;
 import com.android.settings.password.ChooseLockPattern;
+import com.android.settings.preference.DisplayRotation;
 import com.android.settings.print.PrintJobSettingsFragment;
 import com.android.settings.print.PrintSettingsFragment;
 import com.android.settings.privacy.PrivacyDashboardFragment;
@@ -287,6 +288,7 @@ public class SettingsGateway {
             GlobalActionsPanelSettings.class.getName(),
             Horns.class.getName(),
             GamingMode.class.getName(),
+            DisplayRotation.class.getName(),
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
