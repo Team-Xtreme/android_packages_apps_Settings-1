@@ -177,7 +177,8 @@ public class Settings extends SettingsActivity {
     public static class AccountDashboardActivity extends SettingsActivity {}
     public static class SystemDashboardActivity extends SettingsActivity {}
     public static class HornsActivity extends SettingsActivity {}
-
     // Gaming mode
     public static class GamingModeActivity extends SettingsActivity {}
+
+    public static class RotationActivity extends SettingsActivity { /* empty */ }
 }
