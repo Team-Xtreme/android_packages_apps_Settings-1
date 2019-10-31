@@ -181,4 +181,6 @@ public class Settings extends SettingsActivity {
     public static class GamingModeActivity extends SettingsActivity {}
 
     public static class RotationActivity extends SettingsActivity { /* empty */ }
+    public static class SmartPixelsActivity extends SettingsActivity { /* empty */ }
+
 }
