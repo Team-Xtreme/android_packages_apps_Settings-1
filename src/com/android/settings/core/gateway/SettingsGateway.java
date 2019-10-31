@@ -147,10 +147,9 @@ import com.android.settings.wifi.calling.WifiCallingSettings;
 import com.android.settings.wifi.p2p.WifiP2pSettings;
 import com.android.settings.wifi.savedaccesspoints.SavedAccessPointsWifiSettings;
 import com.android.settings.wifi.tether.WifiTetherSettings;
-
 import com.stag.horns.Horns;
 import com.stag.horns.fragments.GamingMode;
-
+import com.stag.horns.fragments.SmartPixels;
 public class SettingsGateway {
 
     /**
@@ -289,6 +288,7 @@ public class SettingsGateway {
             Horns.class.getName(),
             GamingMode.class.getName(),
             DisplayRotation.class.getName(),
+            SmartPixels.class.getName(),
     };
 
     public static final String[] SETTINGS_FOR_RESTRICTED = {
