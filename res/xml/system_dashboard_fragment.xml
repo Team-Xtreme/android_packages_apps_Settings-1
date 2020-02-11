@@ -29,15 +29,6 @@
         android:fragment="com.android.settings.gestures.GestureSettings"
         settings:controller="com.android.settings.gestures.GesturesSettingPreferenceController"/>
 
-    <Preference android:key="stag_updates"
-        android:order="-35"
-        android:title="@string/updater_settings_title"
-        android:summary="@string/updater_settings_summary">
-        <intent android:action="android.intent.action.MAIN"
-            android:targetPackage="org.stag.ota"
-            android:targetClass="org.stag.ota.activities.UpdaterActivity" />
-    </Preference>
-
     <Preference
         android:key="reset_dashboard"
         android:title="@string/reset_dashboard_title"
