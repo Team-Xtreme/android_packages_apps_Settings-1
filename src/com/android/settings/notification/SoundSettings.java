@@ -285,8 +285,7 @@ public class SoundSettings extends DashboardFragment implements OnActivityResult
                         vibrateOnTouchPreferenceController,
                         dockAudioMediaPreferenceController,
                         bootSoundPreferenceController,
-                        emergencyTonePreferenceController,
-                        screenshotSoundPreferenceController)));
+                        emergencyTonePreferenceController)));
 
         return controllers;
     }
