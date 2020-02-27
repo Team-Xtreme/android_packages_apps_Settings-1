@@ -31,7 +31,7 @@ import com.android.settings.overlay.FeatureFactory;
 import com.android.settings.search.BaseSearchIndexProvider;
 import com.android.settings.search.Indexable;
 import com.android.settingslib.search.SearchIndexable;
-import com.android.settings.deviceinfo.UpdatePreferenceController;
+import com.android.settings.deviceinfo.aboutphone.UpdatePreferenceController;
 import com.android.settingslib.core.AbstractPreferenceController;
 
 import java.util.Arrays;

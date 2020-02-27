@@ -31,7 +31,7 @@ public class UpdatePreferenceController extends AbstractPreferenceController
     private static final String KEY_UPDATE_SETTINGS = "update_settings";
     Context mContext;
 
-    public OTAPreferenceController(Context context) {
+    public UpdatePreferenceController(Context context) {
         super(context);
         mContext = context;
     }
